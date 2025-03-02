@@ -10,5 +10,3 @@ window.onload = function () {
   document.getElementById("showTodayDate").innerText = date;
   document.getElementById("todayDay").innerText = `${day} ,`;
 };
-
-  console.log(date)
