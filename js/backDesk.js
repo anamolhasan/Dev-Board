@@ -1,3 +1,3 @@
-document.getElementById("backDesk").addEventListener('click', function(){
+document.getElementById("backDesk").addEventListener("click", function () {
     window.location.href = "index.html";
-})
+  });
