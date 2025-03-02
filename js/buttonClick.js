@@ -48,13 +48,13 @@ for (let i = 0; i < allBtn.length; i++) {
             </div>
             
             <h1 class="text-[18px] font-semibold text-blue-500">${title}</h1>
-            <p class="p-2 rounded-md text-gray-500 text-[14px] bg-white font-[600]">
-                ${task}
-            </p>
+           <p class="p-2 rounded-md text-gray-500 text-[14px] bg-white font-[600]">
+             ${task}
+           </p>
             <p class="text-[14px] text-blue-500 opacity-60 font-[500]">Time : ${time} </p>
         </div>
         `;
-
+      
     document.getElementById("noHistory").style.display = "none";
     document.getElementById("removedHistory").style.display = "none";
 
