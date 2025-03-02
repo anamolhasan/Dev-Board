@@ -11,4 +11,4 @@ window.onload = function () {
   document.getElementById("todayDay").innerText = `${day} ,`;
 };
 
-  
+  console.log(date)
